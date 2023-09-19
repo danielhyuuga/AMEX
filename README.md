@@ -8,4 +8,9 @@ Initial data source: Based on feedback from Lowyat Forum
 
 # How to Contribute
 
-Simple raise an issue
+Simple raise an issue with the following details:
+
+LABEL REQUEST/REMOVE/
+Store Name:
+Location:
+Link to Google Maps:
